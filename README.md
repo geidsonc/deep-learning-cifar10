@@ -1,4 +1,4 @@
-# Deep learning cifar10
+## Deep learning cifar10
 
 Esse trabalho é resultado do uso de técnicas de deep learning utilizando a base de dados CIFAR10 para apresentação ao Curso de Ciência de Dados e Analytcs da Universidade Politécnica do Pernambuco
 
@@ -15,7 +15,7 @@ This work is the result of the use of deep learning techniques using the CIFAR10
 - Batch Normalization
 
 
-# Models and results
+### Models and results
 
 | Model |  acc  |  acc_validation  |
 |-------|-------|------------------|
